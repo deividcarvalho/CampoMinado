@@ -80,7 +80,7 @@ public class TabuleiroConsole {
 			// SE PEGAR MINA, LANÇA EXCEÇÃO E PERDE O JOGO
 		} catch (ExplosaoException e) {
 			System.out.println(tabuleiro);
-			System.out.println("Você perdeu!");
+			System.out.println("Você perdeu!!!");
 		}
 
 	}
